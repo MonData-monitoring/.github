@@ -1,22 +1,33 @@
-MonData
+# MonData
 
-Monitoring a automatizácia technických zariadení — v reálnom čase.
+### Monitoring a automatizácia technických zariadení v reálnom čase
 
-MonData je platforma, ktorá zbiera dáta z technických zariadení v reálnom čase, vie na ich základe (alebo na základe dát z iných externých zdrojov) automatizovať zariadenia — a hlavne sa stará o to, aby prípadné výpadky boli rýchlo odhalené, opravené a doriešené.
+MonData pomáha mať technológie pod kontrolou. Zbiera prevádzkové dáta zo zariadení, bezpečne ich sprístupňuje vo webovej aplikácii a umožňuje nad nimi vytvárať prehľadné monitoringové a automatizačné riešenia.
 
-📡 Zber dát v reálnom čase
+---
 
-Naše edge zariadenia sa pripájajú priamo k technológii na danej lokalite a čítajú dáta naživo, bez ohľadu na výrobcu či protokol zariadenia.
+## Čo prinášame
 
-⚙️ Automatizácia
+|  | Oblasť | Výsledok |
+| --- | --- | --- |
+| 📡 | Monitoring | Prehľad o lokalitách, zariadeniach a meracích bodoch |
+| 📊 | Dáta | Aktuálne prevádzkové hodnoty dostupné v cloude |
+| ⚙️ | Automatizácia | Reakcie na namerané dáta alebo vybrané externé vstupy |
+| 🚨 | Výpadky | Včasné zachytenie problémov a nedostupnosti zariadení |
+| 🛠️ | Servis | Podpora rýchlejšieho riešenia prevádzkových incidentov |
 
-Na základe nazbieraných dát — alebo dát z iných externých zdrojov — vieme zariadenia automaticky riadiť a reagovať na zmeny v reálnom čase.
+---
 
-🛠️ Výpadky, opravy a servis
+## Na čo sa zameriavame
 
-Toto je pre nás kľúčové. Nejde len o zber dát — MonData aktívne stráži stav zariadení, upozorní na výpadok a stará sa o jeho rýchlu opravu a servis, aby prevádzka bežala čo najplynulejšie.
+- zrozumiteľný prehľad nad technickými zariadeniami
+- dostupnosť dát podľa lokalít a meracích bodov
+- automatizáciu vybraných prevádzkových procesov
+- včasné odhalenie výpadkov a problémových stavov
+- podporu efektívnej údržby a servisu
 
-🚧 Stav projektu
+---
 
-MonData je aktívne vo vývoji. Repozitáre sú momentálne súkromné — v prípade záujmu o spoluprácu alebo viac informácií nás neváhajte kontaktovať.
+## Pre koho je MonData
 
+Pre firmy a tímy, ktoré prevádzkujú technické zariadenia a potrebujú ich sledovať, vyhodnocovať a riadiť spoľahlivejšie bez zbytočnej manuálnej kontroly.
